@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    color: white;
+    font-family: "Arial";
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul, li{list-style: none;}
+img{vertical-align: top;}
+body {
+    background-color: black;
+}
+.menu {
+    display: inline-block;
+    color: #fdefd5;
+    font-size: 16px;
+    font-family: "Arial";
+    margin-right: 60px;
+}
+header {
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 30px 0px;
+}
+nav {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.logo {
+        font-size: 16px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 282px;
+}
+.logo2 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+    max-width: 60px;
+
+}
+.roll {
+    display: inline-block;
+    vertical-align: middle;
+}
+.content {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+h1 {
+    margin-top: 133px;
+        font-size: 45px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        line-height: 1.222;
+        text-align: left;
+        max-width: 565px;
+      }      
+      .orng {
+          color: #ffaf18;
+      }
+.h1left {
+    display: inline-block;
+    max-width: 565px;
+    vertical-align: top;
+}
+.h1right {
+    display: inline-block;
+    vertical-align: top;
+}
+.rolls {
+    margin-top: 165px;
+    margin-bottom: 80px;
+}
+.good1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    margin-right: 99px;
+}
+.good2 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+.texttop {
+    margin-top: 74px;
+}
+.tuna {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+.sushi {
+    margin-left: 99px;
+    margin-right: 10px;
+}
+.btn1 {
+    border: 1px solid;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 22px 54px;
+    text-decoration: none;
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #ffaf18;
+    margin-top: 92px;
+}
+.change {
+    text-align: center;
+}
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 120px;
+    margin-bottom: 48px;
+}
+.products {
+    margin: 0px -12px;
+    font-size: 0;
+    padding-bottom: 108px;
+}
+.product {
+    width: 282px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin: 12px;
+    text-align: center;
+    font-size: 0px;
+}
+.imgpr {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+h3 {
+    color: black;
+    font-size: 18px;
+    color: rgb(24, 26, 26);
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.prdtxt {
+        font-size: 14px;
+        color: rgb(24, 26, 26);
+        line-height: 1.286;
+        max-width: 240px;
+        margin: 0px auto;
+        height: 65px;
+}
+.btn2 {
+        font-size: 16px;
+        color: rgb(2, 3, 3);
+        font-weight: bold;
+        border: 0px solid;
+    border-radius: 30px;
+    background-color: #ffaf18;
+    display: inline-block;
+    padding: 17px 82px;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+.h2left {
+    max-width: 390px;
+    display: inline-block;
+}
+.h2right {
+    display: inline-block;
+    vertical-align: top;
+}
+.sushist {
+        font-size: 16px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        line-height: 1.5;
+        text-align: left;
+        max-width: 350px;
+        margin-top: 12px;
+}
+.povar {
+    margin-top: 121px;
+}
+footer {
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 30px 0px;
+}
+.copyright {
+display: inline-block;
+vertical-align: middle;
+font-size: 12px;
+color: rgb(44, 44, 44);
+margin-left: 108px;
+}
